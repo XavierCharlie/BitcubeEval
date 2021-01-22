@@ -25,3 +25,4 @@ public class Course {
 
     public void setDegree(String degree) { this.degree = degree; }
 }
+
