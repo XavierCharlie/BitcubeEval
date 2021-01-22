@@ -30,3 +30,4 @@ public class Degree {
 
     public void setLecturer(String lecturer) { this.lecturer = lecturer; }
 }
+
