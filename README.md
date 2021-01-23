@@ -7,4 +7,4 @@ With regards to persistent storage: You’re not required to implement storage, 
 Using a programming language / framework of your choice (preferably C# with ASP.NET), please implement the following project: 
 
 # Language/Framework
-This will implemented using Java with Eclipse using the apache TomCat server
+This will be implemented using Java with IntelliJ Enterprise using the apache Tomcat server
